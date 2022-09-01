@@ -1,2 +1,4 @@
 # Bot-Gatitos
-Esse projeto consiste em criar um sistema simples com uma Raspberry Pi e uma câmera que irá alimentar um bot feito em Python para tweetar quando meus gatos subirem na minha cama.
+This project consists of creating a simple system with a Raspberry Pi and a camera that will feed a bot made in Python to tweet when my cats climb into my bed.
+
+For more haarcascades go to: https://github.com/opencv/opencv/tree/master/data/haarcascades (Official Opencv Repository)
